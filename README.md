@@ -1,41 +1,36 @@
-# verification
+# Verification
 This repository is created for verification purposes.
 
------------------------------
+
 # Project Links
------------------------------
 Twitter : https://x.com/PUNKVISM
-Discord : https://discord.com/invite/punkvism
-Youtube : https://www.youtube.com/@PUNKVISM
-Instagram : https://www.instagram.com/punkvism_official
-Telegram : https://t.me/Punkvism
------------------------------
+<br>Discord : https://discord.com/invite/punkvism
+<br>Youtube : https://www.youtube.com/@PUNKVISM
+<br>Instagram : https://www.instagram.com/punkvism_official
+<br>Telegram : https://t.me/Punkvism
 
 
------------------------------
 # Ticket 7400 (2025.03.08)
------------------------------
 [ Whitelist ]
-Domain URL: https://punkvism.com
-Domain URL: https://punkvism.io
+<br>Domain URL: https://punkvism.com
+<br>Domain URL: https://punkvism.io
 
 [Additional Request]
-Domain URL: snowseed.io
-Domain URL: snowseed.net
-Domain URL: https://punkykongz.com
-Domain URL: https://punkysociety.com
-Domain URL: https://punkyhag.com
-Domain URL: https://punkyhag.io
-Domain URL: https://doublen.io
-Domain URL: https://eternalmoon.io
-Domain URL: https://lotusfund.io
------------------------------
+<br>Domain URL: https://snowseed.io
+<br>Domain URL: https://snowseed.net
+<br>Domain URL: https://punkykongz.com
+<br>Domain URL: https://punkysociety.com
+<br>Domain URL: https://punkyhag.com
+<br>Domain URL: https://punkyhag.io
+<br>Domain URL: https://doublen.io
+<br>Domain URL: https://eternalmoon.io
+<br>Domain URL: https://lotusfund.io
 
 
------------------------------
+
+
 # Ticket 4504 (2024.11.27)
------------------------------
 [ Whitelist ]
-Domain URL: https://punkykongz.com
-Domain URL: https://punkvism.com
------------------------------
+<br>Domain URL: https://punkykongz.com
+<br>Domain URL: https://punkvism.com
+
